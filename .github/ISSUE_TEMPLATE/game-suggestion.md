@@ -4,9 +4,11 @@ about: Suggest a game for me to play on stream
 title: Game Name Here
 labels: Game
 assignees: AerinNight
-projects: Stream Content
 
 ---
+
+**Add 'Stream Content' to the 'Projects' section over there ⟶**
+*Then delete these two lines; they don't need to be part of the description.*
 
 **Link to the game, if available**
 *Example: https://store.steampowered.com/app/683320/GRIS/*
