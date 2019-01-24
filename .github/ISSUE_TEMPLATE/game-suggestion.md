@@ -4,6 +4,7 @@ about: Suggest a game for me to play on stream
 title: Game Name Here
 labels: Game
 assignees: AerinNight
+projects: Stream Content
 
 ---
 
