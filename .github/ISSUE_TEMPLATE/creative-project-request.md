@@ -4,6 +4,7 @@ about: Suggest a creative project for me to tackle on stream
 title: Project Title Here
 labels: Creative
 assignees: AerinNight
+projects: Stream Content
 
 ---
 
