@@ -4,6 +4,7 @@ about: Suggest improvements to stream production / artwork / emotes
 title: Improvement Title Here
 labels: Stream Improvement
 assignees: AerinNight
+projects: Stream Content
 
 ---
 
