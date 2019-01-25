@@ -3,12 +3,9 @@ name: Creative Project Request
 about: Suggest a creative project for me to tackle on stream
 title: Project Title Here
 labels: Creative
-assignees: AerinNight
+assignees: ''
 
 ---
-
-**Add 'Stream Content' to the 'Projects' section over there ⟶**
-*Then delete these two lines; they don't need to be part of the description.*
 
 **Describe the project**
 *A clear and concise description of what the project is. Example: It'd be awesome if you made a thing that [...]*

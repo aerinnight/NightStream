@@ -3,12 +3,9 @@ name: Stream Improvement
 about: Suggest improvements to stream production / artwork / emotes
 title: Improvement Title Here
 labels: Improvement
-assignees: AerinNight
+assignees: ''
 
 ---
-
-**Add 'Stream Content' to the 'Projects' section over there ⟶**
-*Then delete these two lines; they don't need to be part of the description.*
 
 **Describe the problem with my current setup, if applicable**
 *A clear and concise description of what the problem is. Example: I'm always frustrated when [...]*
