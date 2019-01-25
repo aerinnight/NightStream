@@ -2,7 +2,7 @@
 name: Stream Improvement
 about: Suggest improvements to stream production / artwork / emotes
 title: Improvement Title Here
-labels: Stream Improvement
+labels: Improvement
 assignees: AerinNight
 
 ---
