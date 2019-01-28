@@ -3,7 +3,7 @@ name: Game Suggestion
 about: Suggest a game for me to play on stream
 title: Game Name Here
 labels: Game
-projects: AerinNight/NightStream/1
+projects: "AerinNight/NightStream/1"
 
 ---
 
